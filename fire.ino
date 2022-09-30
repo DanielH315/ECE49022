@@ -1,3 +1,4 @@
+//Author: Daniel Hong
 //http://maker.ifttt.com/trigger/FIRE!/with/key/iBc3LmmQtGjrhQ30M-zOat-wc7fZUS4lwUcMQN8BhsU
 
 #include <WiFi.h>
